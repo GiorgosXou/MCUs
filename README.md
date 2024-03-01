@@ -1,6 +1,6 @@
 # MCUs
 
-This repo exists to contain every individual project I do with any kind of MCU.
+This repo exists to contain every individual project I do with any kind of microcontroller unit.
 
 ## Contributing
 
