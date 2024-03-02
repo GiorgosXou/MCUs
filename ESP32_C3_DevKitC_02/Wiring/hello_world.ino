@@ -4,7 +4,7 @@ void setup ()
   // put your setup code here, to run once:
   Serial.begin (115200);
   pinMode (BUILTIN_LED, 
-           0x03);
+           OUTPUT);
   digitalWrite (BUILTIN_LED, 
                 0);
   pf ("int sz\n  --> %zu\n",
